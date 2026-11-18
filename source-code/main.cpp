@@ -7,10 +7,10 @@ using namespace std;
 // IMPLEMENTASI ALGORITMA DALAM C++
 // ========================================
 
-// Nama Lengkap :
-// Kelas        :
-// Nomor Absen  :
-// Judul Program:
+// Nama Lengkap :NAZWA SABRINA
+// Kelas        :XII-10
+// Nomor Absen  :25
+// Judul Program:MEMPERBAHARUI KODE PROGRAM
 
 int main() {
 
